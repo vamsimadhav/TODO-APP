@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="HeadlineOneAppearance" parent="@style/TextAppearance.AppCompat.Large"/>
+    <style name="HeadlineTwoAppearance" parent="@style/TextAppearance.AppCompat.Medium"/>
+    <style name="BodyAppearance1" parent="@style/TextAppearance.AppCompat.Medium"/>
+</resources>

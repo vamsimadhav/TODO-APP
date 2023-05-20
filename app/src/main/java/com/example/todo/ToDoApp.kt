@@ -14,6 +14,9 @@ class ToDoApp: Application() {
         viewModel {
             RosterMotor(get())
         }
+        viewModel {
+            (modelId: String) -> SingleModelMotor(modelId,get())
+        }
     }
 
     override fun onCreate() {
